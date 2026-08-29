@@ -1,7 +1,4 @@
-// dice.js
-// Random Dice Generator using the crypto module
-// Generates random numbers from 1-6 using cryptographically secure randomness.
-// Run: node dice.js
+
 
 const crypto = require('crypto');
 
