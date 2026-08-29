@@ -1,6 +1,4 @@
-// app.js
-// Demonstrates custom module creation & reusability.
-// Imports the isEven module and the logger module and uses them together.
+
 
 const isEven = require('./modules/isEven');
 const log = require('./modules/logger');
