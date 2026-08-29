@@ -1,7 +1,4 @@
-// fileManager.js
-// File Manager using the fs module
-// Implements Create, Read, Update, and Delete file operations.
-// Run: node fileManager.js
+
 
 const fs = require('fs');
 
