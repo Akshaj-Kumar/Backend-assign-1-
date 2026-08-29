@@ -1,7 +1,4 @@
-// server.js
-// Basic HTTP Server using the http core module
-// Run: node server.js
-// Visit: http://localhost:3000/, /about, /contact
+
 
 const http = require('http');
 
