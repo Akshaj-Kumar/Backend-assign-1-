@@ -1,6 +1,4 @@
-// calculator.js
-// CLI-Based Calculator using process.argv
-// Example: node calculator.js add 10 5
+
 
 console.log('Reading command-line arguments...');
 
